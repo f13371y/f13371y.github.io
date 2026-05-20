@@ -1,3 +1,14 @@
-title: f13371y // Offensive Security Notes
+title: "f13371y // Offensive Security Notes"
+description: "Technical documentation, tool writeups, and certification pathways."
 theme: jekyll-theme-primer
-description: Technical documentation, tool writeups, and certification pathways.
+remote_theme: just-the-docs/just-the-docs
+
+# Enable the built-in search engine
+search_enabled: true
+
+# Color Scheme configuration (Forces a dark theme out of the box)
+color_scheme: dark
+
+# Auxiliary links in the top header (Like GitBook)
+aux_links:
+  "GitHub Profile": "https://github.com"
