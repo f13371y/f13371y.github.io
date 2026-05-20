@@ -12,3 +12,7 @@ color_scheme: dark
 # Auxiliary links in the top header (Like GitBook)
 aux_links:
   "GitHub Profile": "https://github.com"
+
+# Inject the cryptographic dependencies globally
+head_scripts:
+  - "https://cloudflare.com"
