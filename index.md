@@ -1,12 +1,18 @@
 ---
 layout: default
 title: Home
+nav_order: 1
+permalink: /
 ---
 
-# f13371y // Security Research & Notes
+# 🎯 Central Command & Knowledge Base
 
-Welcome to my central technical knowledge base. This documentation structure houses notes compiled across active security assessments, tool architecture, and certification labs.
+Welcome to my central repository of offensive security notes. This platform acts as a documentation structure housing real-world vulnerability data, security automation design paths, and active certification progress.
 
-## 0x01. Quick Navigation
-* [Active Directory Notes](./active-directory.md)
-* [CVE Research](./cve-2023-0642.md)
+---
+
+## 🚀 Active Vectors
+Use the left navigation tree to slide through specific lab blocks or select a direct path below:
+
+* **[Active Directory Infrastructure](./active-directory.md)**
+  *HTB CPTS core methodology, trust models, and domain compromise methodologies.*
