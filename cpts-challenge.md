@@ -12,5 +12,3 @@ Below is the encrypted layer containing the final proof-of-concept string. You w
 
 <!-- The script will hook directly into this ID layer -->
 <div id="encrypted-flag-box"></div>
-
-<script src="/assets/js/decrypt-core.js"></script>
